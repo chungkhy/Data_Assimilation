@@ -17,3 +17,9 @@ $$w_k \sim \mathcal{N}(0, Q)$$
 $$v_k \sim \mathcal{N}(0, R)$$
 
 ---
+Notes:
+
+
+Data assimilation involves the efficient processing of large volumes of diverse and complex observations and their integration into numerical models. These numerical models are often highly complex, resolving multiple spatial and temporal scales and representing processes across different Earth system components.
+
+Data assimilation is inherently transdisciplinary. It requires a strong understanding of mathematical algorithms, physical and chemical processes, observational systems, numerical modeling, high-performance computing, and data science.
